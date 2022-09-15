@@ -15,6 +15,10 @@ Recency, frequency, monetary value (RFM) is a model used in marketing analysis t
 
 ### Data Modeling:
 * __[Firm Company Data Modeling](https://github.com/TalaatHasanin/Data_Modeling-Firm)__: Create an ER Diagram for the company to define the basic entities and relationship between entities and used MS SQL Server to implement the DB and create rules and constraints of autherization.
+
+* __[Data Warehouse & ETL System](https://github.com/TalaatHasanin/Internspedia-Data_Engineering_Internship/tree/main/Data%20Warehouse%20%26%20ETL%20System)__ :
+In this project I built a complete Data Warehouse system using Snowflake Virtual Warehouse and built an ETL system to transfer data from the local machine to Snowflake Warehouse.
+
 ---
 
 ### Data Preproceesing:
